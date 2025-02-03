@@ -1,1 +1,3 @@
-# EEG-recordings
+# Abstract
+
+Attention-Deficit/Hyperactivity Disorder (ADHD) is a condition that affects attention and behavior, making accurate diagnosis essential. This study uses electroencephalography (EEG), a non-invasive measure of brain activity, to explore differences between children with ADHD and typically developing controls. We will apply a text compression technique called Normalized Compression Distance (NCD) or similar techniques in using text compression algorithms to classify EEG recordings. After cleaning and normalizing the data, we will calculate similarity scores between EEG signals to identify patterns unique to each group. By analyzing these patterns across different brain regions, this method aims to improve the accuracy of ADHD classification and contribute to better diagnostic tools.
