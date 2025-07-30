@@ -9,7 +9,7 @@ Instead of using traditional machine learning models, we explore a feature-free,
 
 ## 📌 Poster Presentation
 
-[![Project Poster](https://raw.githubusercontent.com/mhmdkh1905/EEG-classifaction-using-text-compression/main/assets/PosterPreview.jpg)]
+![Project Poster](https://raw.githubusercontent.com/mhmdkh1905/EEG-classifaction-using-text-compression/main/assets/PosterPreview.jpg)
 
 > 📎 The poster summarizes the full pipeline: preprocessing, segmentation, transformation, compression, classification, and evaluation.  
 > It presents key findings, including best-performing methods and accuracy insights.
